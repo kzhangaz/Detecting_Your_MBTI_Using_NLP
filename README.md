@@ -1,7 +1,6 @@
-# Detecting_Your_MBTI_Using_NLP
-
-## PersonaLens: MBTI Analysis with Transformer Technology
+# PersonaLens: MBTI Analysis with Transformer Technology
 The members of our group are Xuetong Tang(xtang34), Yicheng Lu(ylu204), Ke Zhang(kzhan176), and Dongyan Sun (dsun35).
+
 ### Introduction
 Our project aims to revolutionize the way Myers-Briggs Type Indicator (MBTI) assessments are conducted. Traditional MBTI assessments, with their lengthy questionnaires, can be time-consuming and daunting for users.
 
